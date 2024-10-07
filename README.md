@@ -1,7 +1,7 @@
 # HyperCMR
 PyTorch implementation of the paper "HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss". This repository includes the code for our optimized Eagle-Loss function, designed to repair the under-sampled k-space high-frequency information of CMR Reconstruction.
 
-[![Paper](https://img.shields.io/badge/Paper-Published-brightgreen.svg)](https://your-paper-link.com)
+[![Paper](https://img.shields.io/badge/Paper-Published-brightgreen.svg)](https://arxiv.org/abs/2410.03624)
 
 # Test Datasets Results
 We are among the Top5 of Task2
