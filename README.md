@@ -35,3 +35,11 @@ This repository was built on the following resources:
 
 ## Citation
 If you found this repository useful to you, please consider giving a star ⭐️ and citing our paper:
+```bash
+@article{xu2024hypercmr,
+  title={HyperCMR: Enhanced Multi-Contrast CMR Reconstruction with Eagle Loss},
+  author={Xu, Ruru and {\"O}zer, Caner and Oksuz, Ilkay},
+  journal={arXiv preprint arXiv:2410.03624},
+  year={2024}
+}
+```
