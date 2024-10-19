@@ -11,6 +11,10 @@ We are Top 6 in Task 1: Multi-contrast CMR reconstruction
 We are Top 5 in Task 2: Random sampling CMR reconstruction
 
 ![image](https://github.com/user-attachments/assets/b9ed68a7-d64b-41f2-8ab0-cd8e3319a34e)
+<img width="1349" alt="image" src="https://github.com/user-attachments/assets/e9a78d5a-f920-42e2-b303-28b4af511ed3">
+<img width="1355" alt="image" src="https://github.com/user-attachments/assets/5ef3a4ac-3f38-4f65-a895-4f78c43945bd">
+
+
 
 
 ## Abstract
