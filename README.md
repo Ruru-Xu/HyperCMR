@@ -4,7 +4,9 @@ PyTorch implementation of the paper "[HyperCMR: Enhanced Multi-Contrast CMR Reco
 [![Paper](https://img.shields.io/badge/Paper-Published-brightgreen.svg)](https://arxiv.org/abs/2410.03624)
 
 # Test Datasets Results
-We are among the Top5 of Task2
+Challenge: [MICCAI 2024 CMRxRecon Challenge](https://cmrxrecon.github.io/2024/Home.html)
+We are Top 6 in Task 1: Multi-contrast CMR reconstruction.
+We are Top 5 in Task 2: Random sampling CMR reconstruction
 
 ![image](https://github.com/user-attachments/assets/b9ed68a7-d64b-41f2-8ab0-cd8e3319a34e)
 
