@@ -3,6 +3,8 @@ PyTorch implementation of the paper "[HyperCMR: Enhanced Multi-Contrast CMR Reco
 
 [![Paper](https://img.shields.io/badge/Paper-Published-brightgreen.svg)](https://arxiv.org/abs/2410.03624)
 
+[Presentation](https://www.youtube.com/watch?v=tBZq-MMEHPw)
+
 # Test Datasets Results
 Challenge: [MICCAI 2024 CMRxRecon Challenge](https://cmrxrecon.github.io/2024/Home.html)
 
